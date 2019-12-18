@@ -1,0 +1,5 @@
+ID	 Password	Name	Address	Type	State
+SA100356348  SA100B5197  saver  bupt  Saver Account  true
+CU101352691  CU10194pzh  current  bupt  Current Account  true
+JU102321767  JU1026Ok71  junior  bupt  Junior Account  true
+CU103322644  CU1035yd7r  Cany  bupt  Current Account  true
